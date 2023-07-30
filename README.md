@@ -1,4 +1,4 @@
-![](/Assets/Images/repositorios/DevsFree-Banner.png)
+![DevsFree](/Assets/Images/repositorios/DevsFree-Banner.png)
 
 ## DevsFreeLa
 - Pessoas com mentalidade jovem e que tem interesse em stacks de desenvolvimento

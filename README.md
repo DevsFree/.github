@@ -1,4 +1,10 @@
-![DevsFree](/Assets/Images/repositorios/DevsFree-Banner.png)
+![DevsFree](/Assets/Images/repositorios/DEVSFREE-BANNER-ONBOARDING%202023.png)
+
+![DevsFree-Negocio](/Assets/Images/repositorios/DEVSFREE-NEGOCIO-ONBOARDING%202023.png)
+
+![DevsFree](/Assets/Images/repositorios/DEVSFREE-FILOSOFIA-ONBOARDING%202023.png)
+
+![DevsFree-Hubs](/Assets/Images/repositorios/DEVSFREE-HUBS-ONBOARDING%202023.png)
 
 ![DevsFreeLa](/Assets/Icons/repositorios/DevsFreeLa40.png)
 
@@ -25,10 +31,4 @@
 - Para entrar e se manter será necessário ter participado de projetos da DevsFree com alto desempenho de trabalho em equipe e técnico
 - DevsFreeUp receberá os projetos de longo prazo e cliente leais
 
-## O QUE É A DEVSFREE:
-
-- QUAIS PROBLEMAS QUEREMOS RESOLVER
-- O QUE CADA PARTE SIGNIFICA DENTRO DO TODO E INDIVIDUALMENTE, DOCUMENTAR (GITHUB DEVSFREE)
-- REGRAS, FORMULÁRIOS, ONBOARDS 
-- DEFINIR ESTRUTURA DA REDES (WPP, TELEGRAM, DISCORD, GITHUB)
-- DEFINIR: FUNCÕES, TECNOLOGIAS, PESSOAS (STACKS, TOOLS: FIGMA)
+![DevsFree-Contatos](/Assets/Images/repositorios/DEVSFREE-CONTATOS-ONBOARDING%202023.png)

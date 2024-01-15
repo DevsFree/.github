@@ -1,4 +1,20 @@
-![DevsFree](/Assets/Images/repositorios/DEVSFREE-BANNER-ONBOARDING%202023.png)
+![1](https://github.com/DevsFree/.github/assets/108367675/e353f8b7-73b6-459d-bc8a-563e4ae225e3)
+![2](https://github.com/DevsFree/.github/assets/108367675/14e175ee-e55f-4a42-afeb-3baf75082db4)
+![3](https://github.com/DevsFree/.github/assets/108367675/6de1ad05-78d7-4326-9e66-3a0f96187e7f)
+![4](https://github.com/DevsFree/.github/assets/108367675/f50bf010-db0c-4702-bf05-7ea9173c9174)
+![5](https://github.com/DevsFree/.github/assets/108367675/6117e4c7-192c-4150-8b98-3586e84b9370)
+![6](https://github.com/DevsFree/.github/assets/108367675/64c2ff9c-58d6-417f-83d2-663ab992ace3)
+![7](https://github.com/DevsFree/.github/assets/108367675/c8f1c8c7-dd11-451a-9987-8af1893f5d2d)
+![8](https://github.com/DevsFree/.github/assets/108367675/2076f2e9-9948-40c7-9ec1-3c72bf70b238)
+![9](https://github.com/DevsFree/.github/assets/108367675/be822d9b-49d9-4d52-bfef-59af5facdfbb)
+![10](https://github.com/DevsFree/.github/assets/108367675/7c71f8c7-89e6-4d70-9b58-f754f90ff209)
+![11](https://github.com/DevsFree/.github/assets/108367675/29e8ecb3-83c8-4671-9232-1986329eff23)
+![12](https://github.com/DevsFree/.github/assets/108367675/7172d1ba-73b2-4c47-8dd9-477db1011846)
+![13](https://github.com/DevsFree/.github/assets/108367675/d0c3cf64-c468-44a4-9b04-d35c73685e04)
+
+
+
+<!-- ![DevsFree](/Assets/Images/repositorios/DEVSFREE-BANNER-ONBOARDING%202023.png)
 
 ![DevsFree-Negocio](/Assets/Images/repositorios/DEVSFREE-NEGOCIO-ONBOARDING%202023.png)
 
@@ -31,4 +47,4 @@
 - Para entrar e se manter será necessário ter participado de projetos da DevsFree com alto desempenho de trabalho em equipe e técnico
 - DevsFreeUp receberá os projetos de longo prazo e cliente leais
 
-![DevsFree-Contatos](/Assets/Images/repositorios/DEVSFREE-CONTATOS-ONBOARDING%202023.png)
+![DevsFree-Contatos](/Assets/Images/repositorios/DEVSFREE-CONTATOS-ONBOARDING%202023.png) -->

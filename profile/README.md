@@ -12,11 +12,12 @@
 ![12](https://github.com/DevsFree/.github/assets/108367675/7172d1ba-73b2-4c47-8dd9-477db1011846)
 ![13](https://github.com/DevsFree/.github/assets/108367675/d0c3cf64-c468-44a4-9b04-d35c73685e04)
 
+<!-- 
 **Informações Importantes:**
 - [Responsabilidades dos Times](https://drive.google.com/file/d/1Ek0MS5b7hcyxmP11AJ3nwosz3kHKB2g_/view?usp=sharing)
 - [Boas Práticas](https://drive.google.com/file/d/1hV6t8TZ29RqOmmJICDP1w7CLrcj-DTFN/view?usp=sharing)
 
-<!-- ![DevsFree](/Assets/Images/repositorios/DEVSFREE-BANNER-ONBOARDING%202023.png)
+![DevsFree](/Assets/Images/repositorios/DEVSFREE-BANNER-ONBOARDING%202023.png)
 
 ![DevsFree-Negocio](/Assets/Images/repositorios/DEVSFREE-NEGOCIO-ONBOARDING%202023.png)
 
